@@ -1,12 +1,12 @@
 # 🚀 Santi López
 
-**Data Engineer | Machine Learning | Embedded AI | Federated Learning**
+**AI Engineer | Machine Learning | Embedded AI | Federated Learning**
 
 ---
 
 ## 👋 About Me
 
-I’m a Data Engineering Master's student at Tecnun (University of Navarra) with a background in Industrial Electronics & Automation (UPC).
+I’m an AI & ML Engineering Master's student at Tecnun (University of Navarra) with a background in Industrial Electronics & Automation (UPC).
 
 My work sits at the intersection of:
 
@@ -88,7 +88,7 @@ AWS (Glue, Athena, IoT) | MQTT | Databricks | Docker
 
 ---
 
-### 🛒 Grocery AI
+### 🛒 Grocery AI (Private repository — available on request)
 
 * End-to-end AI product built from scratch: iOS app (SwiftUI) + Python backend (FastAPI) that extracts, classifies and analyses supermarket receipts using OCR and GPT-4o mini as a structured data parser.
 * Designed a context-aware conversational assistant that injects real user purchase history into the LLM prompt, enabling personalised nutrition and spending advice without fine-tuning.
@@ -106,7 +106,7 @@ AWS (Glue, Athena, IoT) | MQTT | Databricks | Docker
 
 ## 📈 What I’m Looking For
 
-* AI / Data Engineering roles
+* AI / Data Scientist roles
 * Machine Learning / Applied AI positions
 * Research opportunities in:
 
